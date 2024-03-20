@@ -21,3 +21,7 @@ A collection of awesome resources for building with Evidence
 ## Articles
 
 - [The "Pip Install Data Stack"](https://juhache.substack.com/p/pip-install-data-stack) by Julien Hurault
+
+## Videos
+
+- [Own your Business Intelligence reports](https://www.youtube.com/watch?v=FDEUzE8KJmo) by Siegfried, deploy!
