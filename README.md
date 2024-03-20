@@ -17,3 +17,7 @@ A collection of awesome resources for building with Evidence
 ## Component Plugins
 
 - [Evidence Labs](https://github.com/evidence-dev/labs): A collection of experimental components incuding maps and advanced analysis components
+
+## Articles
+
+- [The "Pip Install Data Stack"](https://juhache.substack.com/p/pip-install-data-stack) by Julien Hurault
