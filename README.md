@@ -21,6 +21,7 @@ A collection of awesome resources for building with Evidence
 ## Articles
 
 - [The "Pip Install Data Stack"](https://juhache.substack.com/p/pip-install-data-stack) by Julien Hurault
+- [EXPLORING THE IMPACT OF BI-AS-CODE TOOLS WITH DUCKDB](https://motherduck.com/blog/the-future-of-bi-bi-as-code-duckdb-impact/) by Mehdi Ouazza 
 
 ## Videos
 
