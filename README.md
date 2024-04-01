@@ -8,6 +8,10 @@ A collection of awesome resources for building with Evidence
 - [**BuzzFeed Trending**](https://buzzfeed-trending.vikramoberoi.com/) ([Source](https://github.com/voberoi/buzzfeed-news-trending)) by Vikram Oberoi: Analysis of the top articles and reporters featured on Buzzfeed News until it closed in 2023.
 - [**Hacker News Insight**](https://hackernews-insight.vercel.app/) ([Source](https://github.com/hooopo/hackernews-insight)) by Hooopo: Analysis of trends on Hacker News, powered by TiDB, and Evidence.
 
+
+## Community Tools
+- [**Evidencecev-py**](https://github.com/AmunAnalytics/evidencedev-py) by Frank Boerman: A small python package to directly download datasets from evidence created reports. Supports header based authentication. Works by pulling in the underlying parquet files and loads them in a pandas dataframe for further processing.
+
 ## Datasource Plugins
 
 - [Google Sheets](https://github.com/evidence-dev/datasources/tree/main/gsheets) - Load a private or public google sheet into Evidence
