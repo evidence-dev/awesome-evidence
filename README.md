@@ -10,7 +10,7 @@ A collection of awesome resources for building with Evidence
 
 
 ## Community Tools
-- [**Evidencecev-py**](https://github.com/AmunAnalytics/evidencedev-py) by Frank Boerman: A small python package to directly download datasets from evidence created reports. Supports header based authentication. Works by pulling in the underlying parquet files and loads them in a pandas dataframe for further processing.
+- [**evidencedev-py**](https://github.com/AmunAnalytics/evidencedev-py) by Frank Boerman: A small python package to directly download datasets from evidence created reports into Pandas. Supports header based authentication.
 
 ## Datasource Plugins
 
