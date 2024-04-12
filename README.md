@@ -29,4 +29,5 @@ A collection of awesome resources for building with Evidence
 
 ## Videos
 
-- [Own your Business Intelligence reports](https://www.youtube.com/watch?v=FDEUzE8KJmo) by Siegfried, deploy!
+- [Own your Business Intelligence Reports](https://www.youtube.com/watch?v=FDEUzE8KJmo) by Siegfried, deploy!
+- [Hands on Keyboard with Evidence and dbt [FR]](https://www.youtube.com/watch?v=tw_vXwSoEck) with Kevin Rosamont Prombo
