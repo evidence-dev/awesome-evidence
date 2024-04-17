@@ -16,7 +16,7 @@ A collection of awesome resources for building with Evidence
 
 - [Google Sheets](https://github.com/evidence-dev/datasources/tree/main/gsheets) - Load a private or public google sheet into Evidence
 - [Microsoft SQL Server - Azure AD Auth](https://github.com/timothyhoward/evidence-connector-mssql) - Azure AD Authentication for MS SQL Server source
-- [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence
+- [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
 
 ## Component Plugins
 
