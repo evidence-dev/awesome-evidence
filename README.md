@@ -18,6 +18,7 @@ A collection of awesome resources for building with Evidence
 - [Microsoft SQL Server - Azure AD Auth](https://github.com/timothyhoward/evidence-connector-mssql) - Azure AD Authentication for MS SQL Server source
 - [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
 - [evidence-connector-oracledb](https://github.com/rinie/evidence-connector-oracledb) - First shot at OracleDB Datasource or NPM evidence-connector-oracledb
+- [evidence-connector-aws-athena](https://github.com/morganchorlton3/evidence-connector-aws-athena) - AWS Athena evidence connector
 
 ## Component Plugins
 
