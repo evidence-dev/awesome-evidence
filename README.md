@@ -16,11 +16,11 @@ A collection of awesome resources for building with Evidence
 
 - [Google Sheets](https://github.com/evidence-dev/datasources/tree/main/gsheets) - Load a private or public google sheet into Evidence
 - [Microsoft SQL Server - Azure AD Auth](https://github.com/timothyhoward/evidence-connector-mssql) - Azure AD Authentication for MS SQL Server source
-- [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
-- [evidence-connector-oracledb](https://github.com/rinie/evidence-connector-oracledb) - First shot at OracleDB Datasource or NPM evidence-connector-oracledb
+- [OracleDB](https://github.com/rinie/evidence-connector-oracledb) - First shot at OracleDB Datasource or NPM evidence-connector-oracledb
 - [Parquet](https://github.com/archiewood/evidence-connector-parquet) - Apache Parquet Evidence connector
 - [AWS Athena](https://github.com/morganchorlton3/evidence-connector-aws-athena) - AWS Athena Evidence connector
 - [ClickHouse](https://github.com/archiewood/evidence-connector-clickhouse) - ClickHouse Evidence connector
+- [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
 
 ## Component Plugins
 
