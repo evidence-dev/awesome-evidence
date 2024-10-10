@@ -19,6 +19,7 @@ A collection of awesome resources for building with Evidence
 - [OracleDB](https://github.com/rinie/evidence-connector-oracledb) - First shot at OracleDB Datasource or NPM evidence-connector-oracledb
 - [Parquet](https://github.com/archiewood/evidence-connector-parquet) - Apache Parquet Evidence connector
 - [AWS Athena](https://github.com/morganchorlton3/evidence-connector-aws-athena) - AWS Athena Evidence connector
+- [S3](https://github.com/archiewood/evidence-connector-s3) - S3 Evidence connector
 - [ClickHouse](https://github.com/archiewood/evidence-connector-clickhouse) - ClickHouse Evidence connector
 - [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
 
