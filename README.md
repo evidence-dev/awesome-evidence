@@ -22,6 +22,7 @@ A collection of awesome resources for building with Evidence
 - [S3](https://github.com/archiewood/evidence-connector-s3) - S3 Evidence connector
 - [ClickHouse](https://github.com/archiewood/evidence-connector-clickhouse) - ClickHouse Evidence connector
 - [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
+- [PostHog](https://github.com/benyn/evidence-connector-posthog) - PostHog Evidence connector
 
 ## Component Plugins
 
