@@ -21,6 +21,7 @@ A collection of awesome resources for building with Evidence
 - [AWS Athena](https://github.com/morganchorlton3/evidence-connector-aws-athena) - AWS Athena Evidence connector
 - [S3](https://github.com/archiewood/evidence-connector-s3) - S3 Evidence connector
 - [ClickHouse](https://github.com/archiewood/evidence-connector-clickhouse) - ClickHouse Evidence connector
+- [Any API](https://github.com/archiewood/evidence-connector-js) - An Evidence connector thatsruna arbitrary JavaScript instead of SQL
 - [NPM Stats](https://github.com/archiewood/npm-stats) - Load the download stats for any public npm package into Evidence from an API
 - [PostHog](https://github.com/benyn/evidence-connector-posthog) - PostHog Evidence connector
 
