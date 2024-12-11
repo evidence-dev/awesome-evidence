@@ -29,6 +29,10 @@ A collection of awesome resources for building with Evidence
 
 - [Evidence Labs](https://github.com/evidence-dev/labs): A collection of experimental components incuding maps and advanced analysis components
 
+## Themes
+
+- [Sample Themes](https://github.com/evidence-dev/themes): A set of theme configurations that can be used with Evidence in light and dark mode
+
 ## Articles
 
 - [The "Pip Install Data Stack"](https://juhache.substack.com/p/pip-install-data-stack) by Julien Hurault
